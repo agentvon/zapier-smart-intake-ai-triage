@@ -28,8 +28,14 @@ It improves response time, organization, and customer experience.
 6. **Internal Notification:** Alert the business owner via Gmail with inquiry details.  
 
 ## 🖼️ Screenshots
+AI Workflow
+
 ![Screenshots](screenshots/zapier-smart-intake-ai-triage.png)
+
+Zapier Form
 ![Screenshots](screenshots/zapier-smart-intake-ai-triage-form.png)
+
+Zapier Table/Database
 ![Screenshots](screenshots/zapier-smart-intake-ai-triage-table.png)
 
 ## Notes on Customization
