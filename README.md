@@ -28,7 +28,9 @@ It improves response time, organization, and customer experience.
 6. **Internal Notification:** Alert the business owner via Gmail with inquiry details.  
 
 ## 🖼️ Screenshots
-Add your screenshots in a `/screenshots` folder and reference them here:
+![Screenshots](screenshots/zapier-smart-intake-ai-triage.png)
+![Screenshots](screenshots/zapier-smart-intake-ai-triage-form.png)
+![Screenshots](screenshots/zapier-smart-intake-ai-triage-table.png)
 
 ## Notes on Customization
 - Replace the form fields or add conditional questions as needed.  
