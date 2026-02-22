@@ -38,6 +38,12 @@ Zapier Form
 Zapier Table/Database
 ![Screenshots](screenshots/zapier-smart-intake-ai-triage-table.png)
 
+Customer Auto-Reply
+![Screenshots](screenshots/zapier-smart-intake-ai-triage-reply.png)
+
+Internal Alert
+![Screenshots](screenshots/zapier-smart-intake-ai-triage-alert.png)
+
 ## Notes on Customization
 - Replace the form fields or add conditional questions as needed.  
 - Modify the AI Agent prompt to refine categorization or tone.  
